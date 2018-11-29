@@ -16,15 +16,13 @@ A few parts of the Checker Framework have more permissive licenses.
    as NullnessUtil.java, RegexUtil.java, SignednessUtil.java, etc.
    In addition, the cleanroom implementations of third-party annotations,
    which the Checker Framework recognizes as aliases for its own
-   annotations, are licensed under the MIT License.
+   annotations are licensed under the MIT License.
 
 Some external libraries that are included with the Checker Framework have
 different licenses.
 
  * javaparser is dual licensed under the LGPL or the Apache license -- you
-   may use it under whichever one you want.  (The javaparser source code
-   contains a file with the text of the GPL, but it is not clear why, since
-   javaparser does not use the GPL.)  See file stubparser/LICENSE
+   may use it under whichever one you want.  (The javaparser source code contains a file with the text of the GPL, but it is not clear why, since javaparser does not use the GPL.)  See file stubparser/LICENSE
    and the source code of all its files.
 
  * JUnit is licensed under the Common Public License v1.0 (see
@@ -197,7 +195,7 @@ source or binary form) with the major components (compiler, kernel, and so on)
 of the operating system on which the executable runs, unless that component
 itself accompanies the executable.
 
-If distribution of executable or object code is made by offering access to copy
+If the distribution of executable or object code is made by offering access to copy
 from a designated place, then offering equivalent access to copy the source
 code from the same place counts as distribution of the source code, even though
 third parties are not compelled to copy the source along with the object code.
@@ -241,7 +239,7 @@ particular circumstance, the balance of the section is intended to apply and
 the section as a whole is intended to apply in other circumstances.
 
 It is not the purpose of this section to induce you to infringe any patents or
-other property right claims or to contest validity of any such claims; this
+other property right claims or to contest the validity of any such claims; this
 section has the sole purpose of protecting the integrity of the free software
 distribution system, which is implemented by public license practices.  Many
 people have made generous contributions to the wide range of software
@@ -299,7 +297,7 @@ GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR
 INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA
 BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A
 FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER
-OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+OR another PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 END OF TERMS AND CONDITIONS
 
@@ -325,8 +323,7 @@ pointer to where the full notice is found.
 
     This program is distributed in the hope that it will be useful, but WITHOUT
     ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
-    FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for
-    more details.
+    FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License along
     with this program; if not, write to the Free Software Foundation, Inc., 59
@@ -339,7 +336,7 @@ starts in an interactive mode:
 
     Gnomovision version 69, Copyright (C) year name of author Gnomovision comes
     with ABSOLUTELY NO WARRANTY; for details type 'show w'.  This is free
-    software, and you are welcome to redistribute it under certain conditions;
+    software and you are welcome to redistribute it under certain conditions;
     type 'show c' for details.
 
 The hypothetical commands 'show w' and 'show c' should show the appropriate
@@ -409,5 +406,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-
-===========================================================================
